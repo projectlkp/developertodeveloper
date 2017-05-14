@@ -7,7 +7,7 @@
 5. Things, you should focus on.
 6. Things, which are really unique and awesome.
 
-<form action="https://formspree.io/rajatsing5054@gmail.com" method="POST">
+<form action="https://formspree.io/rajatrs5054@gmail.com" method="POST">
  <input type="email" name="email" placeholder="Your email">
     <input type="text" name="message" placeholder="Your URL">
   <button type="submit">Send</button>
